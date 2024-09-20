@@ -4,5 +4,33 @@
 
 void kernel_start() {
     terminal_initialize();
-    terminal_writestring("Hello Kernel\n");
-}
+    terminal_writestring("                                                       #&&&&&                   \n");
+    terminal_writestring("                                                  &&&&&&&&&&&&                  \n");
+    terminal_writestring("                                             &&&&&&&&&&&&&&&&&                  \n");
+    terminal_writestring("                                        &&&&&&&&&&&&&&&&&&&&&                   \n");
+    terminal_writestring("                                   #&&&&&&&&&&&&&&// (&&&&&&&                   \n");
+    terminal_writestring("       ./****/(%.            ,&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&                    \n");
+    terminal_writestring("  ************************(&&&&&#&&&&&&&&&&&&&&&   %@@@@@ &                     \n");
+    terminal_writestring("  &&&@..@************************(&&&&&&&&&&&&&&&&&&&&&&&                       \n");
+    terminal_writestring("    ,&&@&&&#/**/#%&******************/&&&&&&&/&&&&&&&&&     ,(((((((/           \n");
+    terminal_writestring("         &&&&&&&&&&&%(%%#****************/&&&&&&*&&&         %((((((/(          \n");
+    terminal_writestring("         &&&#&&&*&&&&&&&&&&%%#***************&&                 /(//@           \n");
+    terminal_writestring("       &&&&&&&&&&&&&&&&&&&&&&&&&&#**************    /&&                         \n");
+    terminal_writestring("     /&&&*&&&&&/&&&&&&&&&&&&/&&/&&&&%%#***********(&&&&&&                       \n");
+    terminal_writestring("    &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%%%%%/*********&&&&&           (((        \n");
+    terminal_writestring("   &&&*&&&&&&&&&&,&&&&&(&&&&&&&&&&&&&&&&&&&&%%%********&&&             ((((     \n");
+    terminal_writestring("     &&&&&&&&&&&&&&&&&&&&&&&@ &&&&&&&&&&&&&&&&&&&%*******(             (((%#(   \n");
+    terminal_writestring("                             &&&&&&&&&&&&&&&&&&&&&&&&******            ((((%%/  \n");
+    terminal_writestring("                            @&&&&&&&&&*&&&&&&&&&& &&&&&&*****          (/////   \n");
+    terminal_writestring("                              &&&&&&&&&&&&&&&&&&    &&&&&&(***%%%%%%            \n");
+    terminal_writestring("                                   &&&&&&&&&              &&&**(%%%%%%%%%%%     \n");
+    terminal_writestring("                                                            %%&/%%%%%%%%%%%%%%# \n");
+    terminal_writestring("                                                  ((        #%%%%%%             \n");
+    terminal_writestring("                                                  ((((       %%%%%%%            \n");
+    terminal_writestring("                                                  (((((       %%%%%%%           \n");
+    terminal_writestring("                                                 ((((%#(       %%%%%%@          \n");
+    terminal_writestring("                                                (((((%%/(       %%%%%%          \n");
+    terminal_writestring("                                                /////((/         %%%%%          \n");
+    terminal_writestring("                                                  ,((#             %%%&         \n");
+    terminal_writestring("                                                                    &%%         \n");
+} 
